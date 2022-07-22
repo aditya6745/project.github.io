@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 10px dotted white;
+}
+.quote{
+    float: left;
+    padding-top: 30%;
+    width: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.poster-image{
+   
+}
+.biography{
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.Bibliography{
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    border-radius: 2%;
+}
